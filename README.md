@@ -5,6 +5,6 @@ This is the final product of the first Udemy Complete React-Native and Redux Cou
 This project shows how to set up a react-native enviroment, make an http request, and use the JSON to populate React Components. Also some styling and button logic. 
 
 ### ScreenShots
-[Screen-Shot-1](https://github.com/rezn5447React-Native-Albums-Scroller/Screenshot_1.png)
-[Screen-Shot-2](https://github.com/rezn5447React-Native-Albums-Scroller/Screenshot_2.png)
+[Screen-Shot-1](https://github.com/rezn5447/React-Native-Albums-Scroller/Screenshot_1.png)
+[Screen-Shot-2](https://github.com/rezn5447/React-Native-Albums-Scroller/Screenshot_2.png)
 
